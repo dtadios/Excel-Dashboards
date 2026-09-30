@@ -1,6 +1,6 @@
 # Rate My Professor Excel Dashboard
 
-![Rate My Professor Excel Dashboard](RMP-Dashboard.png)
+![Rate My Professor Excel Dashboard](image.png)
 
 ## Project Overview
 
