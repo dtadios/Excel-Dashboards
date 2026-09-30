@@ -17,9 +17,8 @@ and transformed in Excel, including converting reported letter grades
 into numerical values for analysis.
 
 Pivot tables and Excel formulas were used to summarize the data by
-professor and department. An interactive dashboard was then created to
-visualize key metrics and allow users to explore the dataset across
-different academic fields.
+professor and department. An dashboard was then created to
+visualize key metrics.
 
 ## Results
 
