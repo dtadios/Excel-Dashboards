@@ -5,8 +5,8 @@
 ## Project Overview
 
 This project analyzes **RateMyProfessors review data** using Microsoft
-Excel. The objective was to explore professor ratings, student grades,
-and academic departments to identify patterns in student reviews and
+Excel. The objective was to explore overall professor ratings, student grades,
+and academic department distributions as well as identify relationships in student reviews and
 instructor performance.
 
 ## Methods
