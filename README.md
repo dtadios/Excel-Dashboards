@@ -1,6 +1,6 @@
 # Rate My Professor Excel Dashboard
 
-![Rate My Professor Excel Dashboard](image.png)
+![Rate My Professor Excel Dashboard](Dashboard.png)
 
 ## Project Overview
 
